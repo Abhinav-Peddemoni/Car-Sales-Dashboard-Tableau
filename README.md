@@ -1,5 +1,6 @@
 # Car Sales Dashboard
 [Dashboard Link](https://public.tableau.com/views/ProjectCarSales/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 The Dashboard provides real-time insights into Key Performance Indicators(KPIs) related to sales data. This will enable to make informed decisions, monitor progress, identify trends and opportunities for growth.
 
 ### 1. Sales Overview:
