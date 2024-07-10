@@ -1,4 +1,3 @@
-# Car-Sales-Dashboard-Tableau
 # Car Sales Dashboard
 The Dashboard provides real-time insights into Key Performance Indicators(KPIs) related to sales data. This will enable to make informed decisions,monitor progress, identify trends and opportunities for growth.
 
